@@ -10,8 +10,9 @@ Smart operator handling (prevents invalid sequences like '++', '**').
 Responsive design for all screen sizes.
 Modern dark UI with transparent and glowing effects.
 
-## Screenshot
+## live check
 [click here to check](https://jeevan400.github.io/Calculator/)
+## Screenshot
 ![Calculator Screenshot](image.png)
 
 ## Tech Stack
